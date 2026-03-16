@@ -180,14 +180,6 @@ After completing both TPs, you will be able to:
 | C4.7: Develop Mobile Apps | Use Programming Language for Mobile Dev | Operational | Intermediate/Advanced |
 | C4.7: Develop Mobile Apps | Create Mobile UI | Operational | Advanced |
 
----
-
-## ✅ Practical Work Completion Status
-
-| TP | Title | Status | Hours | Tech Stack |
-|----|-------|--------|-------|-----------|
-| **TP1** | Technologies de Dev Mobile 1 | ✅ Complete | 30h | Android, Kotlin, Activities |
-| **TP3** | Navigation avec JetPack Compose | ✅ Complete | 30h | Jetpack Compose, Navigation |
 
 ---
 
