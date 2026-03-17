@@ -1,4 +1,4 @@
-# TDM - Techniques de Développement Mobile
+ki# TDM - Techniques de Développement Mobile
 
 ## 📱 Course Overview
 
@@ -18,7 +18,7 @@
 This course is divided into practical works (TP) that progressively build Android development skills:
 
 ### **TP1: Technologies de Développement Mobile 1** ✅
-**Foundational Android Development - 30 hours**
+**Foundational Android Development**
 - Mobile OS and system architectures
 - Android platform and development environment
 - Kotlin programming basics
@@ -27,7 +27,7 @@ This course is divided into practical works (TP) that progressively build Androi
 📁 **Location:** `TP1/` → [TP1 README](TP1/README.md)
 
 ### **TP3: Navigation avec JetPack Compose** ✅ 
-**Advanced Mobile Development - JetPack Compose Navigation - 30 hours**
+**Advanced Mobile Development - JetPack Compose Navigation**
 - JetPack Compose as modern UI framework
 - Advanced navigation patterns (nested navigation, role-based routing)
 - Multi-role application architecture
